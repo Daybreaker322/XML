@@ -1,0 +1,22 @@
+<aboutme>
+	<film>
+		<title>Любимый фильм</title>
+		<name>Avatar</name>
+	</film>
+	<serial>
+		<title>Любимый сериал</title>
+		<name>Withcer</name>
+	</serial>
+	<food>
+		<title>Любимая еда</title>
+		<name>Запеченая картошка</name>
+	</food>
+	<season>
+		<title>Любимое время года</title>
+		<name>Лето</name>
+	</season>
+	<country>
+		<title>Сторона которую хотел бы посетить</title>
+		<name>Маями</name>
+	</country>
+</aboutme>
